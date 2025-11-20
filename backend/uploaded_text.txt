@@ -1,0 +1,50 @@
+🩸 Comprehensive Blood Report
+Name: John Doe
+Age/Sex: 19 / Male
+Date: 04-Nov-2025
+🩸 1. Complete Blood Count (CBC)
+Test Result Reference Range Status
+Hemoglobin (Hb) 12.4 g/dL 13.0 – 17.0 g/dL ⚠️ Low (Mild Anemia)
+RBC Count 4.2 mill/µL 4.5 – 5.9 ⚠️ Slightly Low
+WBC Count 7,200 /µL 4,000 – 11,000 ✅ Normal
+Platelet Count 250,000 /µL 150,000 – 400,000 ✅ Normal
+Hematocrit (HCT) 38% 40 – 50% ⚠️ Slightly Low
+🍔 2. Lipid Profile
+Test Result Reference Range Status
+Total Cholesterol 220 mg/dL < 200 ⚠️ High
+LDL (Bad Cholesterol) 145 mg/dL < 130 ⚠️ High
+HDL (Good Cholesterol) 38 mg/dL > 40 ⚠️ Low
+Triglycerides 175 mg/dL < 150 ⚠️ Slightly High
+VLDL 30 mg/dL 5 – 35 ✅ Normal
+🍬 3. Blood Sugar Levels
+Reference
+Test Result Status
+Range
+108
+Fasting Blood Sugar 70 – 100 ⚠️ Borderline High
+mg/dL
+Postprandial (After 128
+< 140 ✅ Normal
+Meal) mg/dL
+⚠️ Prediabetes
+HbA1c 5.8% < 5.6%
+Range
+🩸 4. Liver Function Test (LFT)Test Result Reference Range Status
+SGPT (ALT) 34 U/L 10 – 40 ✅ Normal
+SGOT (AST) 28 U/L 10 – 40 ✅ Normal
+Alkaline Phosphatase 95 U/L 44 – 147 ✅ Normal
+Total Bilirubin 0.9 mg/dL 0.2 – 1.2 ✅ Normal
+💧 5. Kidney Function Test (KFT)
+Test Result Reference Range Status
+Serum Creatinine 0.9 mg/dL 0.6 – 1.3 ✅ Normal
+Blood Urea 27 mg/dL 15 – 40 ✅ Normal
+Uric Acid 7.3 mg/dL 3.4 – 7.0 ⚠️ Slightly High
+🩸 6. Electrolytes
+Test Result Reference Range Status
+Sodium (Na⁺) 139 mmol/L 135 – 145 ✅ Normal
+Potassium
+4.2 mmol/L 3.5 – 5.1 ✅ Normal
+(K⁺)
+Chloride
+102 mmol/L 98 – 107 ✅ Normal
+(Cl⁻)
